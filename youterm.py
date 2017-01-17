@@ -2,7 +2,7 @@ import urllib
 import urllib2
 from bs4 import BeautifulSoup
 import os, sys, math, random, webbrowser
-#$$  Feel free to edit this shit. -Shade 
+#$$ Make sure you have YouTube-DL installed
 
 print """
 YouTube ASCII Player
